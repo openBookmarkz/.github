@@ -1,4 +1,4 @@
-![openBookmarkz](/workspaces/.github/profile/logo+name.png)
+![openBookmarkz logo](https://github.com/openBookmarkz/.github/blob/main/profile/logo+name.png?raw=true)
 
 ----
 
