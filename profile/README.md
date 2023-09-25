@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="profile/logo+name.png" alt="Image Description">
+  <img src="/workspaces/.github/profile/logo+name.png" alt="Image Description">
 </div>
 
 ----
