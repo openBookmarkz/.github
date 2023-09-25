@@ -6,8 +6,8 @@ openBookmarkz plays a pivotal role in the generation of startup ideas.
 
 We're the place where creative folks, tech enthusiasts, and supportive individuals team up to suggest and bring cool startup ideas to life.
 
-* [Contributing Guidelines]()
-* [Submission Template]()
+* [Contributing Guidelines](https://github.com/openBookmarkz/ideas)
+* [Submission Template](https://github.com/openBookmarkz/ideas/tree/main/ideaTemplate)
 
 ----
 
