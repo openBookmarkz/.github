@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-  <img src="/workspaces/.github/profile/logo+name.png" alt="Image Description">
-</div>
+![openBookmarkz](profile/logo+name.png)
 
 ----
 
