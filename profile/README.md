@@ -1,4 +1,6 @@
-![Cloud Native Computing Foundation](profile/logo+name.png)
+<div style="text-align: center;">
+  <img src="profile/logo+name.png" alt="Image Description">
+</div>
 
 ----
 
