@@ -1,4 +1,8 @@
-![openBookmarkz logo](https://github.com/openBookmarkz/.github/blob/main/profile/logo%2Bname.png)
+<div align='center'>
+
+![openBookmarkz logo](profile/logo+name.png)
+
+</div>
 
 ----
 
