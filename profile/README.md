@@ -1,6 +1,6 @@
 <div align='center'>
 
-![openBookmarkz logo](profile/logo+name.png)
+![openBookmarkz logo](https://drive.google.com/file/d/146YBC23N8SY1CG-BNWe-Cf15s6xRo5l7/view?usp=sharing)
 
 </div>
 
