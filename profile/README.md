@@ -1,6 +1,6 @@
 <div align='center'>
 
-![openBookmarkz logo](logo+name.png)
+![openBookmarkz logo](profile/logo+name.png)
 
 </div>
 
