@@ -1,6 +1,7 @@
 <div align='center'>
 
-![openBookmarkz logo](profile/logo+name.png)
+![openBookmarkz logo](https://github.com/openBookmarkz/.github/assets/66585295/5876c17c-b443-4f16-b3c8-0015380a8aa2)
+
 
 </div>
 
